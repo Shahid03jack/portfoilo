@@ -259,7 +259,7 @@ a {
 
   .hero {
     border-radius: 20px;
-    min-height: calc(50vh - 14px);
+    min-height: calc(40vh - 14px);
   }
 }
 /* ====================
