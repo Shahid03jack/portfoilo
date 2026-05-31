@@ -252,14 +252,14 @@ a {
   opacity: 0.9;
 }
 */
-@media (max-width: 600px) {
+@media (max-width: 400px) {
   .hero-wrapper {
     padding: 12px;
   }
 
   .hero {
     border-radius: 20px;
-    min-height: calc(40vh - 24px);
+    min-height: calc(45vh - 24px);
   }
 }
 /* ====================
