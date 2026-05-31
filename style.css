@@ -30,7 +30,7 @@ html, body {
   margin: 0;
   padding: 0;
   overflow-x: hidden;
-  font-family: system-ui, sans-serif;
+  font-family: sans-serif;
   /*background: var(--bg);*/
   /*color: var(--text);
   transition: background 0.4s, color 0.4s;*/
