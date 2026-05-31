@@ -225,7 +225,7 @@ a {
       rgba(0.3, 0.3, 0.3, 0.2),
       rgba(0.3, 0.3, 0.3, 0.2)
     ),
-    url("assets/images/Heromain.png");
+    url("assets/images/Heromalin.png");
 
   background-size: cover;
   background-position: center;
@@ -259,7 +259,7 @@ a {
 
   .hero {
     border-radius: 20px;
-    min-height: calc(20vh - 15px);
+    min-height: calc(40vh - 24px);
   }
 }
 /* ====================
